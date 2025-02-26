@@ -4,10 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Sonam Dorji"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
-
+   A Software Engineering Student At College of Science and Technology
 email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/me.jpg"
@@ -49,7 +48,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/Sonamdorji1904/Sonamdorji1904.github.io.git
     desc:	Fork me on github
     share_url:
     share_title:
