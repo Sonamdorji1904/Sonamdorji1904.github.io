@@ -3,7 +3,7 @@ layout: post
 title:  "Reflections on Database Systems: A Journey Through Unit 1"
 date:   2025-02-21 21:34:25
 categories: Blog
-tags: featured
+tags: regular
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
