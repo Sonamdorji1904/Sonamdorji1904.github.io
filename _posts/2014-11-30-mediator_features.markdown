@@ -7,7 +7,7 @@ tags: regular
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
-### **Reflections on Database Systems: A Journey Through Unit 1**
+## Unit 1 Blog
 
 Before I started this module, my understanding of databases was limited. I considered databases to be simply collections of data in tables for the primary purpose of organizing data and retrieving information. But after the completion of Unit 1 in Database Systems Fundamentals, my perspective has changed significantly.
 
