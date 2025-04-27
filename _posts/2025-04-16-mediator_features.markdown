@@ -3,7 +3,7 @@ layout: post
 title:  "Unit 4 Blog"
 date:   2025-04-15 18:30:25
 categories: Blog
-tags: featured
+tags: regular
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 
