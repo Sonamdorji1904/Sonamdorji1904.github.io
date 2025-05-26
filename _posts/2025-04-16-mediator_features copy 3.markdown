@@ -37,6 +37,8 @@ Transactions have four essential properties:
 * **Isolation**: Each transaction runs as if it’s the only one.
 * **Durability**: Once committed, the changes are permanent—even after a crash.
 
+![](/acid.png)
+
 #### Simple Transaction Example
 
 ```sql
@@ -77,6 +79,8 @@ This is a protocol that splits a transaction’s locking into two phases:
 2. **Shrinking phase** – can only release locks.
 
 This ensures serializability.
+
+![](/2pl_locking.webp)
 
 #### Deadlocks
 
