@@ -147,7 +147,7 @@ For disasters, some systems keep backups at remote sites. If the main site fails
 
 ---
 
-## My Experience and Reflections
+## Reflection
 
 At first, ACID properties just felt like some abstract rules. But after trying out transactions in PostgreSQL and intentionally causing errors, I saw how these properties saved my data from becoming garbage.
 
